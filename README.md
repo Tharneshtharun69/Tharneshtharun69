@@ -1,7 +1,9 @@
-<h1 align="left">Hi 👋, I'm Tharnesh R</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tharnesh R</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharneshtharun69&label=Profile%20views&color=0e75b6&style=flat" alt="tharneshtharun69" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharneshtharun69" alt="tharneshtharun69" /></a> </p>
 
 - 📫 How to reach me **tharneshtharun2003@gmail.com**
 
@@ -20,3 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharneshtharun69&show_icons=true&locale=en&layout=compact" alt="tharneshtharun69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharneshtharun69&show_icons=true&locale=en" alt="tharneshtharun69" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharneshtharun69&" alt="tharneshtharun69" /></p>
+
