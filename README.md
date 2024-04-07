@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharneshtharun69&label=Profile%20views&color=0e75b6&style=flat" alt="tharneshtharun69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharneshtharun69" alt="tharneshtharun69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharneshtharun69" alt="tharneshtharun69" /></a> 
 
 - 📫 How to reach me **tharneshtharun2003@gmail.com**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharnesh-r-572248259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharnesh-r-572248259" height="30" width="40" /></a>
