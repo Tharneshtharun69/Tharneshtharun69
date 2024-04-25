@@ -25,8 +25,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/> </a> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <a href="https://iconscout.com/icons/github" target="_blank" rel="noreferrer">
-      <img src="https://www.google.com/imgres?q=github%20icon%20link%20for%20github%20readme%20file&imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fassets%2FGitHub-Mark-ea2971cee799.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&docid=H8p6HHzcTglWAM&tbnid=thYE3r73bm1jUM&vet=12ahUKEwitgYDYwN2FAxWqd2wGHUDeAQMQM3oECHoQAA..i&w=560&h=560&hcb=2&ved=2ahUKEwitgYDYwN2FAxWqd2wGHUDeAQMQM3oECHoQAA" alt="GITHUB" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharneshtharun69&show_icons=true&locale=en&layout=compact" alt="tharneshtharun69" /></p>
