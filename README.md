@@ -1,4 +1,3 @@
-![SVG Example](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCIgZmlsbD0iYmxhY2siLz48dGV4dCB4PSIxMCIgeT0iMzUiIGZvbnQtc2l6ZT0iMzAiIGZpbGw9IndoaXRlIj5Zb3VyIFRleHQgSGVyZTwvdGV4dD48L3N2Zz4=)
 <h1 align="center">Hi 👋, I'm Tharnesh R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
