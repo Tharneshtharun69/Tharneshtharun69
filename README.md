@@ -1,4 +1,5 @@
 Hi 👋, I'm Tharnesh R
+
 A passionate frontend developer from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharneshtharun69&label=Profile%20views&color=0e75b6&style=flat" alt="tharneshtharun69" /> </p>
