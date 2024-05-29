@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharnesh-r-572248259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharnesh-r-572248259" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tharneshtharun" target="blank"><img align="center" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tharneshtharun" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tharneshtharun" target="blank"><img align="center" src="https://www.codechef.com/" alt="tharneshtharun" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tharneshtharun21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharneshtharun21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tharnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tharnesh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tharneshthkhmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tharneshthkhmw" height="30" width="40" /></a>
