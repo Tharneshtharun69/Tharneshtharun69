@@ -25,8 +25,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>   
-<a href="https://app.netlify.com/" target="_blank" rel="noreferrer> 
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="40" width="40"/>
+<a href="https://app.netlify.com/" target="_blank" rel="noreferrer> <img src="https://camo.githubusercontent.com/0aafb6d40f5721b8f81e594a93793aeaad11a8a29e6be4b2156b24466d3cda50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" height="40" width="40"/> </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharneshtharun69&show_icons=true&locale=en&layout=compact" alt="tharneshtharun69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharneshtharun69&show_icons=true&locale=en" alt="tharneshtharun69" /></p>
